@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Zen Z Aura Community Hub",
+  "description": "Connect with Zen Z Aura through live updates, member messaging, forums, fan art galleries, and exclusive mindset and mystery content.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

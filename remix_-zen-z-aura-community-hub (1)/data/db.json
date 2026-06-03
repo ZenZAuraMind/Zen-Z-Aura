@@ -1,0 +1,537 @@
+{
+  "stats": {
+    "subscriberCount": 227,
+    "subscriberGoal": 300000,
+    "activeMembers": 0,
+    "totalViews": 216132
+  },
+  "users": [
+    {
+      "id": "admin",
+      "username": "Zen Z Aura",
+      "handle": "zenzauramind",
+      "role": "admin",
+      "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&auto=format&fit=crop&q=80",
+      "joinedAt": "2025-01-15T00:00:00.000Z"
+    },
+    {
+      "id": "user1",
+      "username": "Marcus Aurelius Fan",
+      "handle": "stoic_seeker",
+      "role": "member",
+      "avatarUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150&auto=format&fit=crop&q=80",
+      "joinedAt": "2026-02-10T00:00:00.000Z"
+    },
+    {
+      "id": "user2",
+      "username": "Sophia Sigma",
+      "handle": "mindset_shift",
+      "role": "member",
+      "avatarUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&auto=format&fit=crop&q=80",
+      "joinedAt": "2026-03-24T00:00:00.000Z"
+    }
+  ],
+  "videos": [
+    {
+      "id": "yt_2AzxlCNk_Fo",
+      "ytId": "2AzxlCNk_Fo",
+      "title": "My Secret of completing the Impossible tasks #mindsetmatters#motivationalquotes#mindsetminute",
+      "description": "Everyone sees the &quot;impossible.&quot; I see the path to &quot;done.&quot;\n\nIn this video, I’m sharing my personal secret for pushing through when things feel unreachable. It’s a mindset shift that changes everything.\n\n💡 The Secret: Remember, it always seems impossible... until it's done. \n\nHow do you handle &quot;impossible&quot; tasks? Let me know in the comments. 👇\n\n#MySecret #MindsetShift #NelsonMandela #PersonalGrowth #DoingTheImpossible #Shorts",
+      "thumbnail": "https://i3.ytimg.com/vi/2AzxlCNk_Fo/hqdefault.jpg",
+      "duration": "0:58",
+      "type": "short",
+      "views": 4685,
+      "publishedAt": "May 9, 2026",
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "id": "yt_r9vtNXKmDP8",
+      "ytId": "r9vtNXKmDP8",
+      "title": "Peak Male: Sacrifice vs. Self-Destruction 💔🔥 #masculinity #shorts",
+      "description": "Explore the thin line between a man’s greatest strength and his ultimate downfall.\n\nScene 1: The Peak Male in Love. True strength is found in sacrifice.\nScene 2: The Peak Male in Ego. Pride is the fastest way to destroy everything you built.\n\nWhich one defines a real man? Drop a &quot;👑&quot; in the comments if you choose sacrifice!\n\n#masculinity #stoic #lifelessons #peakmale #motivation #ego #love #sacrifice #shorts #stoicism #mindset",
+      "thumbnail": "https://i3.ytimg.com/vi/r9vtNXKmDP8/hqdefault.jpg",
+      "duration": "0:58",
+      "type": "short",
+      "views": 11745,
+      "publishedAt": "May 11, 2026",
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "id": "yt_kamCN859urc",
+      "ytId": "kamCN859urc",
+      "title": "Wisdom that changed my life forever ⚡️ #shorts",
+      "description": "Stop overcomplicating things. Life gets simpler when you realize every problem only has three real solutions: Accept it, Change it, or Leave it. Which one are you choosing today?||\n\n💡 *Wisdom for the grind.*\n🎬 *Edit by Zen Z Aura(@ZenZAuraMind)*\n\n#motivation #mindset #stoic #carshorts #discipline #successquotes #shortsfeed",
+      "thumbnail": "https://i4.ytimg.com/vi/kamCN859urc/hqdefault.jpg",
+      "duration": "0:58",
+      "type": "short",
+      "views": 3571,
+      "publishedAt": "May 12, 2026",
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "id": "yt_ABxqm8p2PTQ",
+      "ytId": "ABxqm8p2PTQ",
+      "title": "Read this before your EGO destroys you. 🧠 #shorts #mindset",
+      "description": "A harsh truth most people realize too late.\n\nScene 1: Remember this before it's too late...\nScene 2: If you think you are the best, remember there is always someone better.\n\nHumility is power. Don't let your ego blind you.\n\nDrop a &quot;💯&quot; if you agree with this mindset.\n\n#mindset #motivation #stoic #egocheck #lifelessons #wisdom #discipline #shorts #growth #success",
+      "thumbnail": "https://i2.ytimg.com/vi/ABxqm8p2PTQ/hqdefault.jpg",
+      "duration": "0:58",
+      "type": "short",
+      "views": 10861,
+      "publishedAt": "May 13, 2026",
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "id": "yt_IF9HwqbaunU",
+      "ytId": "IF9HwqbaunU",
+      "title": "Trust me when I say this, bro... 🤝 #shorts #mindset",
+      "description": "The pain of discipline is temporary, but the pain of regret lasts forever.\n\nScene 1: Trust me when I say this, bro...\nScene 2: Taking the risk will always be better than living with regrets.Stop playing it safe. Take the leap.\n\nDrop a &quot;🔥&quot; if you needed to hear this today.\n\n#mindset #motivation #risk #noregrets #discipline #growth #success #lifelessons #stoic #inspiration #shorts #alpha",
+      "thumbnail": "https://i2.ytimg.com/vi/IF9HwqbaunU/hqdefault.jpg",
+      "duration": "0:58",
+      "type": "short",
+      "views": 13676,
+      "publishedAt": "May 16, 2026",
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "id": "yt_hgoxUufBl9s",
+      "ytId": "hgoxUufBl9s",
+      "title": "Today Is The Youngest You’ll Ever Be ⏳ Start Now #Motivation #GrowthMindset #StartNow #Inspiratio",
+      "description": "Stop waiting for the &quot;perfect time&quot; because it does not exist. You might wish you had started this journey years ago, but dwelling on the past will not change your future. Today is literally the youngest you will ever be from this moment forward. Take the leap, make the move, and start building your dream today. Tomorrow you will thank yourself.\n\n#Shorts #Motivation #MindsetShift #PersonalGrowth #StopProcrastinating #DailyInspiration #OvercomingFear #SelfImprovement #StartToday #Consistency #SuccessMindset #NoRegrets #FutureYou",
+      "thumbnail": "https://i1.ytimg.com/vi/hgoxUufBl9s/hqdefault.jpg",
+      "duration": "0:58",
+      "type": "short",
+      "views": 5942,
+      "publishedAt": "May 18, 2026",
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "id": "yt_R9-XI7tIn08",
+      "ytId": "R9-XI7tIn08",
+      "title": "When Plan A Fails, Execute Plan B 🤝 No Excuses #Shorts #Mindset #Success #Motivation #BackupPlan",
+      "description": "Never rely on a single path to success. If you are only prepared for things to go right, you will crash the moment they go wrong. True winners don't panic when Plan A fails—they simply look at their backup plan and keep moving forward. Stay prepared, stay adaptable, and never let a setback stop you.\n\n#Shorts #Motivation #GrowthMindset #Resilience #Discipline #Adaptability #StrategicThinking #ProblemSolving #OvercomingObstacles #Consistency #GoalGetter #SuccessTips #NoExcuses",
+      "thumbnail": "https://i3.ytimg.com/vi/R9-XI7tIn08/hqdefault.jpg",
+      "duration": "0:58",
+      "type": "short",
+      "views": 8792,
+      "publishedAt": "May 20, 2026",
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "id": "yt_OL1_xcSAz4o",
+      "ytId": "OL1_xcSAz4o",
+      "title": "The Mindset Shift You Need 🧠 #GrowthMindset #Shorts",
+      "description": "The ultimate growth mindset: Sometimes you win, sometimes you learn. 🧠✨\n\nWe often look at failure as a dead end, but it is actually the greatest teacher you will ever have. When things don't go your way, it is not a loss—it is a lesson. If you want to get far in life, you have to reprogram how you view setbacks. Shift your perspective from &quot;Why is this happening to me?&quot; to &quot;What is this teaching me?&quot; \n\nSave this video to remind yourself of this truth on tough days, and share it with someone who needs a mindset shift today. 🎯\n\n#GrowthMindset #MotivationDaily #MindsetShift #SuccessTips #PersonalGrowth #OvercomeFailure #Inspiration #DailyInspiration #SelfImprovement #MindsetMatters #Shorts #Reels #TikTokMotivation",
+      "thumbnail": "https://i4.ytimg.com/vi/OL1_xcSAz4o/hqdefault.jpg",
+      "duration": "0:58",
+      "type": "short",
+      "views": 10450,
+      "publishedAt": "May 22, 2026",
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "id": "yt_ZP7M3PZzfZU",
+      "ytId": "ZP7M3PZzfZU",
+      "title": "This Changed My Entire Mindset... 🧠✨ #GrowthMindset #Shorts #StartOver",
+      "description": "Don't be afraid to start over. It's a chance to build something better. 🏛️🌱\n\nStarting over from scratch can feel terrifying, but it is not a sign of failure. It is actually a clean slate. This time, you aren't starting from nothing—you are starting from experience. You know what mistakes to avoid, what works, and who you want to become. Shift your perspective and see every fresh start as an upgrade, not a setback.\n\nSave this video for the next time you feel stuck, and share it with someone who needs the courage to pivot today. 🎯\n\n#GrowthMindset #MindsetShift #StartOver #PersonalGrowth #NewBeginnings #MotivationDaily #OvercomeFailure #Inspiration #SelfImprovement #FreshStart #MindsetMatters #Shorts #Reels",
+      "thumbnail": "https://i3.ytimg.com/vi/ZP7M3PZzfZU/hqdefault.jpg",
+      "duration": "0:58",
+      "type": "short",
+      "views": 14922,
+      "publishedAt": "May 23, 2026",
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "id": "yt_PD_37bvAwWg",
+      "ytId": "PD_37bvAwWg",
+      "title": "A Harsh Truth That Will Change Your Life... 💎⏱️ #ValueYourTime #Shorts #Mindset",
+      "description": "The ultimate value shift: If you don't value your own time, nobody else will either. ⏳🔥\n\nTime is the only asset you can never buy back. Every time you say 'yes' to something unimportant, you are saying 'no' to your own growth, goals, and peace of mind. Stop letting people waste your energy on things that don't move you forward. Set your boundaries, respect your schedule, and treat your time like the priceless asset it is. \n\nSave this video as a daily reminder to protect your peace, and share it with someone who needs to hear this truth today. 🎯\n\n#GrowthMindset #MindsetShift #ValueYourTime #TimeManagement #PersonalGrowth #SuccessTips #MotivationDaily #Inspiration #SelfImprovement #MindsetMatters #ProtectYourTime #Shorts #Reels",
+      "thumbnail": "https://i1.ytimg.com/vi/PD_37bvAwWg/hqdefault.jpg",
+      "duration": "0:58",
+      "type": "short",
+      "views": 3205,
+      "publishedAt": "May 24, 2026",
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "id": "yt_mZ6qZjhY4zs",
+      "ytId": "mZ6qZjhY4zs",
+      "title": "&quot;Peak Male&quot; Thinking... 🗿⚡ #SigmaMindset #Shorts #Stoicism",
+      "description": "&quot;Peak Male&quot; thinking: You can break my heart, but you can't break me. 🦾🔥\n\nTrue masculine strength isn’t about being emotionless—it’s about being unbreakable. When you dedicate your life to a higher purpose, your goals, and your growth, no external circumstance or heartbreak can derail you. Let the pain fuel your drive, focus on your self-improvement, and build yourself into something unstoppable. \n\nSave this video to remind yourself to stay locked in, and share it with someone on their grind today. 🎯\n\n#SigmaMindset #Stoicism #MentalToughness #GrowthMindset #MasculineEnergy #FocusOnYourself #Resilience #MotivationDaily #SuccessMindset #MindsetShift #Shorts #Reels #ChadMindset",
+      "thumbnail": "https://i2.ytimg.com/vi/mZ6qZjhY4zs/hqdefault.jpg",
+      "duration": "0:58",
+      "type": "short",
+      "views": 12782,
+      "publishedAt": "May 26, 2026",
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "id": "yt_lBKD1RgJzYA",
+      "ytId": "lBKD1RgJzYA",
+      "title": "Become The Storm 🌪️⚡ #PeakHuman #Shorts #Unstoppable",
+      "description": "&quot;Peak Human&quot; thinking: I am not surviving the storm. I am the storm. 🦾🔥\n\nAverage minds look for shelter when chaos hits. Peak human minds realize that they are the ones who master the chaos for their competition. When life gets brutal, stop begging for things to get easier. Step into your power, lean into the pressure, and become the most powerful force in the room. You don't just endure hardship—you command it.\n\nSave this video to unlock your ultimate drive, and share it with someone who needs to tap into their power today. 🎯\n\n#PeakHuman #MindsetShift #BecomeTheStorm #MentalToughness #Resilience #Unstoppable #FocusOnYourself #MotivationDaily #SuccessMindset #SelfImprovement #Shorts #Reels #StoicMindset",
+      "thumbnail": "https://i1.ytimg.com/vi/lBKD1RgJzYA/hqdefault.jpg",
+      "duration": "0:58",
+      "type": "short",
+      "views": 9267,
+      "publishedAt": "May 27, 2026",
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "id": "yt_op99L4y84jk",
+      "ytId": "op99L4y84jk",
+      "title": "Accepting the unacceptable. #Stoicism",
+      "description": "When the storm is unavoidable, fighting it only wastes your energy. True power is sitting down, accepting your fate, and enjoying your coffee. ☕🌊\n\nWhat would you do in this situation? Let me know in the comments! 👇\n\n#Shorts #Stoicism #AmorFati #Cinematic #Mindset #InnerPeace #Calm",
+      "thumbnail": "https://i4.ytimg.com/vi/op99L4y84jk/hqdefault.jpg",
+      "duration": "0:58",
+      "type": "short",
+      "views": 33540,
+      "publishedAt": "May 28, 2026",
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "id": "yt_XeliNX_OWSA",
+      "ytId": "XeliNX_OWSA",
+      "title": "Notice The Shift 🗿👁️ #SigmaMindset #Shorts #StayFocused",
+      "description": "&quot;Peak Male&quot; calibration: When they stop talking to you, they start talking about you. Notice the shift. ♟️⚡\n\nThe moment you choose your purpose over seeking validation, you lose access to average spaces. When people can no longer reach you, trigger you, or pull you down to their level, they will try to control the narrative about you instead. Don't waste your breath or your energy defending yourself. Let them whisper while you execute in complete silence. Your results will do the talking.\n\nSave this video to protect your focus, and share it with someone currently building in silence. 🎯\n\n#SigmaMindset #Stoicism #PeakMale #LevelUp #StayFocused #MentalToughness #Resilience #Unstoppable #MotivationDaily #SuccessMindset #SelfImprovement #Shorts #Reels #ChadMindset",
+      "thumbnail": "https://i1.ytimg.com/vi/XeliNX_OWSA/hqdefault.jpg",
+      "duration": "0:58",
+      "type": "short",
+      "views": 956,
+      "publishedAt": "May 29, 2026",
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "id": "yt_BVUZYdfXPaE",
+      "ytId": "BVUZYdfXPaE",
+      "title": "&quot;The Greatest Humiliation&quot; — A Short Cinematic Story #SadStatus #LovePain",
+      "description": "#Shorts #Heartbreak #SadStory #UnrequitedLove\n\n&quot;I have never seen a humiliation greater than this... My heart is occupied with someone whose heart is not with me.&quot;\n\nA short, emotional narrative about unrequited love, rejection, and the silent heartbreak of giving your all to someone who looks right through you.\n\n✨ Special Thanks:A huge thank you to my subscriber @suny-2007 for contributing the powerful lines and concept that inspired this scene! Thank you for supporting the channel!\n\nIf you enjoyed this emotional short story, please like, comment, and subscribe for more content!",
+      "thumbnail": "https://i3.ytimg.com/vi/BVUZYdfXPaE/hqdefault.jpg",
+      "duration": "0:58",
+      "type": "short",
+      "views": 1490,
+      "publishedAt": "May 30, 2026",
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "id": "vid1",
+      "title": "How to Master the Power of Silence in a Noisy World (2026 Guide)",
+      "description": "A comprehensive analysis on emotional resilience, mental discipline, and how silent processing enhances focus in an age of non-stop notification streams.",
+      "thumbnail": "https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?w=500&auto=format&fit=crop&q=80",
+      "duration": "14:24",
+      "type": "long",
+      "views": 120500,
+      "publishedAt": "2 weeks ago",
+      "likes": 12400,
+      "comments": 1850
+    },
+    {
+      "id": "vid2",
+      "title": "AI vs. Humans: Which Jobs Will Survive by 2030?",
+      "description": "An analytical deep-dive into future trends, career survivability, cognitive shields, and how to build a growth mindset to master artificial intelligence rather than being replaced by it.",
+      "thumbnail": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=500&auto=format&fit=crop&q=80",
+      "duration": "18:45",
+      "type": "long",
+      "views": 340000,
+      "publishedAt": "1 month ago",
+      "likes": 28900,
+      "comments": 3400
+    },
+    {
+      "id": "vid3",
+      "title": "Dyatlov Pass Mystery 😨 9 Hikers Ran Into Freezing Death… But WHY?",
+      "description": "Deciphering the chilling transcripts, freezing records, and structural anomalies to propose a scientific and political analysis of the tragic 1959 Ural Mountain historical mystery.",
+      "thumbnail": "https://images.unsplash.com/photo-1548685160-e47087cdca1a?w=500&auto=format&fit=crop&q=80",
+      "duration": "22:10",
+      "type": "long",
+      "views": 89000,
+      "publishedAt": "3 days ago",
+      "likes": 9300,
+      "comments": 980
+    },
+    {
+      "id": "vid4",
+      "title": "Become The Storm 🌪️⚡",
+      "description": "A high-intensity motivational clip targeting mental discipline, breaking past lazy routines, and adopting a Sigma character archetype in chaotic environments.",
+      "thumbnail": "https://images.unsplash.com/photo-1461088945293-0c17689e48ac?w=500&auto=format&fit=crop&q=80",
+      "duration": "0:59",
+      "type": "short",
+      "views": 890000,
+      "publishedAt": "5 days ago",
+      "likes": 72000,
+      "comments": 340
+    },
+    {
+      "id": "vid5",
+      "title": "Notice The Shift 🗿👁️",
+      "description": "The core Stoic realization that you do not control outside cards, you only control your play. Focus deeply inside and notice your power change.",
+      "thumbnail": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=500&auto=format&fit=crop&q=80",
+      "duration": "0:52",
+      "type": "short",
+      "views": 1220000,
+      "publishedAt": "1 week ago",
+      "likes": 98000,
+      "comments": 540
+    }
+  ],
+  "roadmap": [
+    {
+      "id": "road1",
+      "title": "Stoicism: The Ultimate Armor Against Modern Anxiety (Full Guide)",
+      "description": "A structured breakdown of core stoic mindset guides from Aurelius, Seneca, and Epictetus adapted directly for high-input digital lifestyles.",
+      "status": "recording",
+      "type": "long",
+      "publishDate": "2026-06-10",
+      "progress": 65,
+      "likes": [
+        "user1",
+        "user2"
+      ]
+    },
+    {
+      "id": "road2",
+      "title": "The Lost Colony of Roanoke: Deciphering the Cryptic Marks 🌲🎭",
+      "description": "Exploring historical theories, archaeological updates, and the real mystery behind the Croatoan tree engravings.",
+      "status": "scripting",
+      "type": "long",
+      "publishDate": "2026-06-22",
+      "progress": 40,
+      "likes": [
+        "user2"
+      ]
+    },
+    {
+      "id": "road3",
+      "title": "Make Silence Your Leverage 🤫",
+      "description": "A motivation Short highlighting why signaling your plans too early dissipates drive and focus.",
+      "status": "editing",
+      "type": "short",
+      "publishDate": "2026-06-03",
+      "progress": 90,
+      "likes": [
+        "user1"
+      ]
+    }
+  ],
+  "forumPosts": [
+    {
+      "id": "post1",
+      "authorId": "user1",
+      "authorName": "Marcus Aurelius Fan",
+      "authorHandle": "stoic_seeker",
+      "authorAvatarUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150&auto=format&fit=crop&q=80",
+      "title": "How do you practice silence in a loud-working city?",
+      "content": "Loved Zen's latest guide on Silence. Working in high-tech sales means my brain is continuously saturated with pitches, slack channels, and alert tones. Have any of you successfully integrated blocks of intentional sensory fasting? What works best?",
+      "category": "mindset",
+      "likes": [
+        "user2",
+        "admin"
+      ],
+      "commentsCount": 2,
+      "createdAt": "2026-05-30T01:32:25.788Z"
+    },
+    {
+      "id": "post2",
+      "authorId": "user2",
+      "authorName": "Sophia Sigma",
+      "authorHandle": "mindset_shift",
+      "authorAvatarUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&auto=format&fit=crop&q=80",
+      "title": "The threat of AI in creative content is highly exciting",
+      "content": "In the 'AI vs Humans 2030' video, the transition of content production is highlight worthy. Instead of feeling doomed by AI replacing basic writers, I think general creators will focus exclusively on original research, deep personal commentary format, and aesthetic community building. Thoughts?",
+      "category": "trends",
+      "likes": [
+        "user1"
+      ],
+      "commentsCount": 1,
+      "createdAt": "2026-05-30T13:32:25.788Z"
+    },
+    {
+      "id": "post3",
+      "authorId": "admin",
+      "authorName": "Zen Z Aura",
+      "authorHandle": "zenzauramind",
+      "authorAvatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&auto=format&fit=crop&q=80",
+      "title": "Official Welcome to our Channel Community Oasis",
+      "content": "This is a direct space for the Zen Z Aura community of thinkers, creators, and warriors. Discussions on stoicism, AI trend commentary, deep mystery breakdowns, and mind cultivation. Introduce yourself and stay disciplined. Notice the shift.",
+      "category": "general",
+      "likes": [
+        "user1",
+        "user2"
+      ],
+      "commentsCount": 1,
+      "createdAt": "2026-05-28T13:32:25.788Z"
+    }
+  ],
+  "forumComments": [
+    {
+      "id": "c1",
+      "postId": "post1",
+      "authorId": "user2",
+      "authorName": "Sophia Sigma",
+      "authorHandle": "mindset_shift",
+      "authorAvatarUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&auto=format&fit=crop&q=80",
+      "content": "Yes, I block off 8:00 AM to 9:30 AM every morning. No phone, no music. Just writing plans. It doubled my concentration threshold in a week.",
+      "createdAt": "2026-05-30T05:32:25.788Z"
+    },
+    {
+      "id": "c2",
+      "postId": "post1",
+      "authorId": "admin",
+      "authorName": "Zen Z Aura",
+      "authorHandle": "zenzauramind",
+      "authorAvatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&auto=format&fit=crop&q=80",
+      "content": "Outstanding. Remember: true silence is not the absence of sound, but rather the stillness of judgment within. Keep guarding that focus.",
+      "createdAt": "2026-05-30T07:32:25.788Z"
+    },
+    {
+      "id": "c3",
+      "postId": "post2",
+      "authorId": "user1",
+      "authorName": "Marcus Aurelius Fan",
+      "authorHandle": "stoic_seeker",
+      "authorAvatarUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150&auto=format&fit=crop&q=80",
+      "content": "Agreed. Curation and human charisma will be the real currencies. This website is a great proof of that.",
+      "createdAt": "2026-05-30T15:32:25.788Z"
+    },
+    {
+      "id": "c4",
+      "postId": "post3",
+      "authorId": "user1",
+      "authorName": "Marcus Aurelius Fan",
+      "authorHandle": "stoic_seeker",
+      "authorAvatarUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150&auto=format&fit=crop&q=80",
+      "content": "Incredible space Zen Z Aura! Grateful to be among the founding members of this portal.",
+      "createdAt": "2026-05-28T14:32:25.788Z"
+    }
+  ],
+  "fanArt": [
+    {
+      "id": "art1",
+      "title": "Guardian of Inner Silence",
+      "description": "Digital matte painting showing a silhouette sitting in full lotus meditation on a steep mountain ridge, surrounded by heavy storm clouds, styled like the 'Become the Storm' thumbnail mood.",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80",
+      "isUploaded": false,
+      "authorId": "user1",
+      "authorName": "Marcus Aurelius Fan",
+      "authorHandle": "stoic_seeker",
+      "likes": [
+        "user2",
+        "admin"
+      ],
+      "createdAt": "2026-05-29T13:32:25.788Z",
+      "status": "approved"
+    },
+    {
+      "id": "art2",
+      "title": "Ancient Wisdom 🗿🗿",
+      "description": "Vector graphic artwork of the Stoic stone bust integrated with cosmic nodes and glitch effects. Notice the Shift philosophy.",
+      "url": "https://images.unsplash.com/photo-1605721911519-3dfeb3be25e7?w=800&auto=format&fit=crop&q=80",
+      "isUploaded": false,
+      "authorId": "user2",
+      "authorName": "Sophia Sigma",
+      "authorHandle": "mindset_shift",
+      "likes": [
+        "user1"
+      ],
+      "createdAt": "2026-05-31T03:32:25.788Z",
+      "status": "approved"
+    }
+  ],
+  "chatMessages": [
+    {
+      "id": "chat1",
+      "authorId": "user1",
+      "authorName": "Marcus Aurelius Fan",
+      "authorAvatarUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150&auto=format&fit=crop&q=80",
+      "authorRole": "member",
+      "content": "What are you all reading right now? I'm doing a re-read of Seneca's Letters from a Stoic.",
+      "createdAt": "2026-05-31T01:32:25.788Z",
+      "recipientId": null
+    },
+    {
+      "id": "chat2",
+      "authorId": "user2",
+      "authorName": "Sophia Sigma",
+      "authorAvatarUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&auto=format&fit=crop&q=80",
+      "authorRole": "member",
+      "content": "Just starting 'Meditations' by Aurelius. The concept of managing the inner citadel is highly relevant to today's news cycle.",
+      "createdAt": "2026-05-31T02:32:25.788Z",
+      "recipientId": null
+    },
+    {
+      "id": "chat3",
+      "authorId": "admin",
+      "authorName": "Zen Z Aura",
+      "authorAvatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&auto=format&fit=crop&q=80",
+      "authorRole": "admin",
+      "content": "Outstanding choices. Seneca's focus on time management pairs perfectly with the Stoic view of social chatter. Stay focused.",
+      "createdAt": "2026-05-31T05:32:25.788Z",
+      "recipientId": null
+    }
+  ],
+  "youtubeConfig": {
+    "handle": "@zenzauramind",
+    "channelId": "UCbBJ7ThK1abAnvLtpr3pbaA",
+    "enabled": true,
+    "lastSyncedAt": "2026-05-31T13:59:51.466Z",
+    "autoSyncIntervalMinutes": 10,
+    "syncLogs": [
+      {
+        "timestamp": "2026-05-31T13:59:51.466Z",
+        "status": "success",
+        "message": "Merged YouTube uploads for \"Zen Z Aura\" successfully. Checked 15 uploads. Integrated 0 brand new releases!"
+      },
+      {
+        "timestamp": "2026-05-31T13:59:44.797Z",
+        "status": "success",
+        "message": "Merged YouTube uploads for \"Zen Z Aura\" successfully. Checked 15 uploads. Integrated 0 brand new releases!"
+      },
+      {
+        "timestamp": "2026-05-31T13:49:52.228Z",
+        "status": "success",
+        "message": "Merged YouTube uploads for \"Zen Z Aura\" successfully. Checked 15 uploads. Integrated 0 brand new releases!"
+      },
+      {
+        "timestamp": "2026-05-31T13:42:55.209Z",
+        "status": "success",
+        "message": "Merged YouTube uploads for \"Zen Z Aura\" successfully. Checked 15 uploads. Integrated 0 brand new releases!"
+      },
+      {
+        "timestamp": "2026-05-31T13:42:49.643Z",
+        "status": "success",
+        "message": "Merged YouTube uploads for \"Zen Z Aura\" successfully. Checked 15 uploads. Integrated 15 brand new releases!"
+      },
+      {
+        "timestamp": "2026-05-31T13:42:47.096Z",
+        "status": "success",
+        "message": "Initial virtual linkage established."
+      }
+    ]
+  },
+  "brandConfig": {
+    "brandName": "Zen Z Aura",
+    "brandHandle": "zenzauramind",
+    "brandEmail": "zenzauramind@gmail.com",
+    "logoType": "emoji",
+    "logoValue": "🗿",
+    "adminAvatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&auto=format&fit=crop&q=80",
+    "announcement": "Master the Power of Silence.",
+    "themeColor": "amber",
+    "enableFanArtAutoApprove": true,
+    "enableSlowModeForForum": false
+  }
+}

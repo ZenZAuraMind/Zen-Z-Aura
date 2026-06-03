@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <script>
+      // Patch window.fetch with a proper setter to prevent TypeError in sandboxed environments or devtools that monkey-patch fetch.
+      (function() {
+        try {
+          const originalFetch = window.fetch;
+          if (originalFetch) {
+            let currentFetch = originalFetch;
+            Object.defineProperty(window, 'fetch', {
+              get() {
+                return currentFetch;
+              },
+              set(val) {
+                currentFetch = val;
+              },
+              configurable: true,
+              enumerable: true
+            });
+          }
+        } catch (e) {
+          console.warn("Fetch patch configuration failed:", e);
+        }
+      })();
+    </script>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Discover premium Stoicism guides, interactive productivity tools, community insights, videos, and shorts with Zen Z Aura." />
+    <meta name="keywords" content="Stoicism, Zen Z Aura, mindfulness, meditation, productivity tools, journaling, creator hub, daily discipline" />
+    <meta name="robots" content="index, follow" />
+    <!-- Open Graph & Social Cards -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Zen Z Aura | Creator Oasis & Community Hub" />
+    <meta property="og:description" content="Discover premium Stoicism guides, interactive productivity tools, community insights, videos, and shorts with Zen Z Aura." />
+    <meta property="og:image" content="/assets/logo.png" />
+    <!-- Twitter Cards -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Zen Z Aura | Creator Oasis & Community Hub" />
+    <meta name="twitter:description" content="Discover premium Stoicism guides, interactive productivity tools, community insights, videos, and shorts with Zen Z Aura." />
+    <title>Zen Z Aura</title>
+    <style>
+      body {
+        background-color: #0c0c0c;
+        color: #ffffff;
+        margin: 0;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
+
